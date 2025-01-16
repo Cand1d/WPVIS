@@ -20,6 +20,7 @@ Dieses Repository demonstriert eine automatisierte Analyse von deutschen Wahlpro
    - Führt beispielsweise eine PCA durch, um die Embeddings auf 2D zu reduzieren.  
    - Nutzt Plotly-`updatemenus`, um Dropdowns für Themen und Jahre anzubieten.  
    - Optional: Hover-Infos mit Kurz-Zusammenfassungen und Parteiinformationen.
+   - Die finale Visualisierung befindet sich in index.html
 
 ## Installation
 
