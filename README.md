@@ -143,14 +143,5 @@ fig = go.Figure(
 fig.update_layout(title="PCA der Wahlprogramm-Chunks")
 fig.show()
 ```
-
-## Hinweise
-
-- **Performance**: Das Generieren vieler Embeddings kann zeitintensiv sein. Zwischenergebnisse sollten in Pickle-Dateien o. ä. gesichert werden.
-- **Genauigkeit**: Die Qualität der Themen-Zuordnung hängt stark von den Themenlabels (z. B. „Energiepolitik") oder ausführlicheren Beschreibungen ab.
-- **Lizenz**: Bitte füge eine passende Lizenzdatei (z. B. MIT, Apache 2.0) hinzu, wenn du den Code öffentlich teilst.
-
-## Kontakt
-
-Für Fragen oder Diskussionen bitte ein Issue auf GitHub öffnen oder den Projektverantwortlichen anschreiben.
-
+##
+Kontakt: christophpp@gmail.com
